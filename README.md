@@ -1,6 +1,8 @@
 # up
 UP is a batch utility that makes navigating deeply nested paths a bit easier via the windows command line.
 
+Add up.bat to the your envronment PATH variable to use from any directory.
+
 ####Usage
 ```
 Usage: up [argument]... [n]...
